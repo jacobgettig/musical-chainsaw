@@ -1,0 +1,6 @@
+require("prototype.room")
+require("prototype.spawn")
+require('prototype.source')
+require('prototype.creep')
+require('prototype.container')
+require('globals')
