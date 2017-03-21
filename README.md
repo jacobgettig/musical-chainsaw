@@ -1,4 +1,4 @@
 # musical-chainsaw
-my repository
 
-edit for the tutorial
+
+screeps repository for dfett20's rewrite code
